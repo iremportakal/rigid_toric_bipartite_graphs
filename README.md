@@ -11,4 +11,4 @@ Polymake and Singular scripts for investigating the rigidity of toric varieties 
 
 ### Executing examples:
 
-* **executing_examples.md**: This provides an overview for the usage of both scripts with precise examples.
+* **executing_examples.md**: This provides an overview for the usage of both scripts with examples. It also explains precisely the idea and the subroutines of the script.
