@@ -1,5 +1,5 @@
 # rigid_toric_bipartite_graphs
-Polymake and Singular scripts for investigating the rigidity of toric varieties using the tools mentioned in the authours paper [On the classification of rigid toric varieties arising from bipartite graphs]().  
+Polymake and Singular scripts for investigating the rigidity of toric varieties using the tools mentioned in the authours paper [On the classification of rigid toric varieties arising from bipartite graphs](https://arxiv.org/abs/1905.02445).  
 
 ## Content:
 
