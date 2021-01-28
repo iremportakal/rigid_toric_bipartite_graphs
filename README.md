@@ -1,5 +1,5 @@
 # rigid_toric_bipartite_graphs
-Polymake and Singular scripts for investigating the rigidity of toric varieties using the tools mentioned in the authours paper [On the classification of rigid toric varieties arising from bipartite graphs](https://arxiv.org/abs/1905.02445).  
+Polymake and Singular scripts for investigating the rigidity of toric varieties using the tools mentioned in the authours paper [On rigidity of toric varieties arising from bipartite graphs](Journal of Algebra Volume 569, 1 March 2021, Pages 784-822).  
 
 ## Content:
 
@@ -12,3 +12,16 @@ Polymake and Singular scripts for investigating the rigidity of toric varieties 
 ### Executing examples:
 
 * **executing_examples.md**: This provides an overview for the usage of both scripts with examples. It also explains precisely the idea and the subroutines of the script.
+
+### Note: About Array::Util
+
+If you receive error messages, you probably need to install Array::util. Download the tar file from : http://search.cpan.org/dist/Array-Utils/Utils.pm
+
+Do the following steps as root:
+
+Untar it.
+Run 
+perl Makefile.PL
+make test
+make install
+
