@@ -1,4 +1,5 @@
 use application 'polytope';
+use application 'topaz';
 use Array::Utils qw(intersect);
 
 sub is_tv_graph_rigid {
@@ -120,3 +121,4 @@ sub get_twofaces {
     }
     return @twofaces;
 }
+
