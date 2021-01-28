@@ -1,5 +1,5 @@
 use application 'polytope';
-use application 'topaz';
+#use application 'topaz';
 use Array::Utils qw(intersect);
 
 sub is_tv_graph_rigid {
